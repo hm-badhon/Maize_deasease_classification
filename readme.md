@@ -1,7 +1,8 @@
 ## **Project Report: Maize Disease Classification Using Transfer Learning and Custom CNN**
 
 ### **1. Introduction**
-The project aims to classify two maize diseases, **army_worm** and **cutworn**, based on image data. This is crucial for early detection and mitigation of crop damage caused by these diseases. Two approaches were implemented:
+The project aims to classify two maize diseases, **Army Worm** and **Cutworm**, based on image data. This is crucial for early detection and mitigation of crop damage caused by these diseases. Two approaches were implemented:
+
 1. **Transfer Learning**: Using a pre-trained ResNet50 model.
 2. **Custom Convolutional Neural Network (CNN)**: A model designed from scratch.
 
