@@ -15,7 +15,7 @@ The goal was to compare the accuracy, efficiency, and generalization ability of 
 #### **2.1 Data Preparation**
 - **Dataset**:
   - Total Images: 200 (160 for training and 40 for validation).
-  - Two classes: Maize Leaf Blight (100 images) and Maize Common Rust (100 images).
+  - Two classes: Army Worm (100 images) and Cutworm (100 images).
 
 - **Data Augmentation**:
   - Techniques applied: Rescaling, Rotation, Zooming, Flipping, and Shifting.
