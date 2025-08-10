@@ -1,0 +1,5 @@
+# Ignore trained model
+models/trained_model.h5
+
+# Ignore datasets
+Datasets/
